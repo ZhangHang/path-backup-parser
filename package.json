@@ -1,0 +1,10 @@
+{
+  "name": "PathBackupParser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhanghang.n@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^12.0.0"
+  }
+}
