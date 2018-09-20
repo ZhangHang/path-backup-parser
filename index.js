@@ -14,7 +14,7 @@ class PathPost {
 const pathBackupPath = process.argv[2]
 
 if (pathBackupPath === undefined) {
-    console.log('\033[91m%s\033[0m', '请传入 Paht 备份文件夹路径')
+    console.log('\033[91m%s\033[0m', '请传入 Path 备份文件夹路径')
     return
 }
 
