@@ -1,5 +1,5 @@
 {
-  "name": "PathBackupParser",
+  "name": "path backup parser",
   "version": "1.0.0",
   "main": "index.js",
   "author": "zhanghang.n@gmail.com",
